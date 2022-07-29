@@ -10,7 +10,7 @@ public class A3_AccessModifiers {
 		System.out.println(A1_AccessModifiers.b);
 		System.out.println(A1_AccessModifiers.c);
 		System.out.println(A1_AccessModifiers.d);
-
+//test
 	}
 
 }
